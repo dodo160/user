@@ -1,4 +1,4 @@
-drop table if exists USER;
+#drop table if exists USER;
 
 /*==============================================================*/
 /* Table: USER                                                  */
